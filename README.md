@@ -1,7 +1,7 @@
 # ABM-NetLogo-assignment
 This repository contains the code from the “Introduction to Agent-Based Modeling” course by Complexity Explorer, part of the Santa Fe Institute. The course focused on coding with NetLogo for agent-based modeling. This code is the final assignment.
 
-The assignments peer-reviewed by other students. I received valuable comments from them of how to make it better, and also one referred me to Bryan Caplan's book "The myth of the rational voter".
+The assignments were peer-reviewed by fellow students, providing valuable feedback for improvement. One reviewer recommended Bryan Caplan’s book, “The Myth of the Rational Voter.”
 
 ## WHAT IS IT?
 
